@@ -5,8 +5,6 @@
 Crie um arquivo `.env.local` na raiz da sua aplicação, com as seguintes variáveis.
 As variáveis que pedem chaves são de uma aplicação criada com Firebase
 
-SKIP_PREFLIGHT_CHECK=true
-
 REACT_APP_API_KEY=
 REACT_APP_AUTH_DOMAIN=
 REACT_APP_PROJECT_ID=
